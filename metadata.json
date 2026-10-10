@@ -1,0 +1,6 @@
+{
+  "name": "Datka Guest House - Naryn",
+  "description": "Authentic boutique guest house in Naryn, Kyrgyzstan. Cozy rooms, homemade Kyrgyz breakfast, fast Wi-Fi, and Tian Shan mountain expedition basecamp at 54 Lenin St.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
